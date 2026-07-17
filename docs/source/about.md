@@ -13,7 +13,7 @@ orphan: true
 
 > *Curious by default. Building things to find out how they work.*
 
-I’m **Spondan Bandyopadhyay** — an aspiring AI practitioner focused on understanding 
+I’m **Spondan Bandyopadhyay** — an AI practitioner focused on understanding 
 and building intelligent systems.
 
 What draws me to artificial intelligence is not just the technology itself, 
