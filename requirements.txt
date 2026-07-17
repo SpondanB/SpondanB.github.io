@@ -1,0 +1,6 @@
+# Then needed requirements for building the Sphinx site
+sphinx==9.1.0
+myst-parser==5.0.0
+sphinx-design==0.7.0
+shibuya==2026.1.9
+

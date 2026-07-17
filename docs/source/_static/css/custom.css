@@ -1,0 +1,180 @@
+/* Hide the Shibuya theme credit in the footer */
+.sy-foot-copyright p:nth-child(2) {
+    display: none !important;
+}
+
+
+/* 
+.sy-head-nav {
+    margin-left: auto !important;
+    flex: 1;
+    display: flex;
+    justify-content: flex-end !important;
+}
+
+.sy-head-nav ul {
+    margin-left: auto !important;
+    justify-content: flex-end !important;
+} */
+
+/* ── Project Filter Buttons ───────────────────────────── */
+.proj-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.proj-filter-btn {
+    padding: 0.35rem 1rem;
+    border-radius: 999px;
+    border: 2px solid var(--color-brand-primary, #8d3bff);
+    background: transparent;
+    color: var(--color-brand-primary, #8d3bff);
+    font-size: 0.85rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 0.2s ease, color 0.2s ease;
+}
+
+.proj-filter-btn:hover,
+.proj-filter-btn.active {
+    background: var(--color-brand-primary, #8d3bff);
+    color: #ffffff;
+}
+
+/* ── Project Grid ─────────────────────────────────────── */
+.proj-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+/* ── Project Card ─────────────────────────────────────── */
+.proj-card {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid var(--color-brand-primary, #8d3bff);
+    border-radius: 12px;
+    padding: 1.25rem;
+    box-sizing: border-box;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+}
+
+.proj-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+
+.proj-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.75rem;
+}
+
+.proj-emoji {
+    font-size: 1.75rem;
+    line-height: 1;
+}
+
+.proj-tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+    justify-content: flex-end;
+}
+
+.proj-tag {
+    font-size: 0.68rem;
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    background: var(--color-brand-primary, #8d3bff);
+    color: #fff;
+    font-weight: 500;
+    opacity: 0.8;
+}
+
+.proj-title {
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 0 0 0.25rem;
+}
+
+.proj-question {
+    font-size: 0.85rem;
+    color: var(--color-brand-primary, #8d3bff);
+    margin: 0 0 0.6rem;
+}
+
+.proj-desc {
+    font-size: 0.87rem;
+    line-height: 1.7;
+    flex: 1;
+    margin: 0 0 1rem;
+}
+
+.proj-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    font-size: 0.78rem;
+    color: var(--color-foreground-muted, #888);
+    margin-bottom: 1rem;
+}
+
+.proj-links {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-top: auto;
+}
+
+.proj-btn {
+    padding: 0.35rem 1rem;
+    border-radius: 999px;
+    border: 2px solid var(--color-brand-primary, #8d3bff);
+    background: transparent;
+    color: var(--color-brand-primary, #8d3bff);
+    font-size: 0.82rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.2s ease, color 0.2s ease;
+}
+
+.proj-btn:hover {
+    background: var(--color-brand-primary, #8d3bff);
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.proj-btn-muted {
+    border-color: var(--color-foreground-muted, #888);
+    color: var(--color-foreground-muted, #888);
+}
+
+.proj-btn-muted:hover {
+    background: var(--color-foreground-muted, #888);
+    color: #ffffff;
+}
+
+.proj-btn-secondary {
+    border-color: var(--color-brand-primary, #8d3bff);
+    color: var(--color-brand-primary, #8d3bff);
+    background: transparent;
+}
+
+.proj-btn-secondary:hover {
+    background: var(--color-brand-primary, #8d3bff);
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.proj-empty {
+    text-align: center;
+    color: var(--color-foreground-muted, #888);
+    font-size: 0.9rem;
+    padding: 2rem 0;
+}
