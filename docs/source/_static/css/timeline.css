@@ -216,6 +216,15 @@
     margin: 0 0 0.5rem;
 }
 
+.tl-card ul {
+    font-size: 0.88rem;
+    line-height: 1.7;
+    width: 100%;
+    max-width: 100%;
+    /* color: var(--color-foreground-secondary, #495057); */
+    margin: 0 0 0.5rem;
+}
+
 .tl-card p:last-child {
     margin: 0;
 }

@@ -65,6 +65,7 @@ and experimenting with ideas to better understand how intelligent systems percei
 :::{grid-item-card} 🧰 Languages & Frameworks
 :class-header: sd-bg-dark sd-text-white
 
+{bdg-dark}`Python`
 {bdg-dark}`Java`
 {bdg-dark}`C / C++`
 {bdg-dark}`React`
@@ -73,6 +74,7 @@ and experimenting with ideas to better understand how intelligent systems percei
 {bdg-dark}`Tailwind`
 {bdg-dark}`Tkinter`
 {bdg-dark}`p5.js`
+{bdg-dark}`Markdown`
 {bdg-dark}`MkDocs`
 {bdg-dark}`Sphinx`
 :::
@@ -86,15 +88,46 @@ and experimenting with ideas to better understand how intelligent systems percei
 
   <div class="tl-item">
     <div class="tl-card">
+      <div class="tl-role">Customer Operations Analyst</div>
+      <div class="tl-company">Forma AI</div>
+      <div class="tl-duration">May 2025 – Ongoing</div>
+      <p>Cross-functional analyst working at the intersection of business strategy, data science, and AI-driven operations. Proven track record of transforming complex datasets into scalable, actionable insights and automating workflows using the Forma platform. Skilled in bridging the gap between technical engineering teams and enterprise client stakeholders to optimize business performance.</p>
+      <ul>
+      <li>One of the first teams to migrate the client to the latest product developed, which required changes to setup rules, validation methodology and dashboard visible queries - requireing us to configure, update, validate and release over 150+ custom queries related to the above within 1 week time period.</li>
+      <li>Automated data processing pipelines by designing and implementing end-to-end reporting workflows using Python, SQL, and Databricks, reducing manual analysis effort by 25%</li>
+      <li>Architected and maintained dynamic business intelligence (BI) dashboards, providing executives and stakeholders with real-time visibility into key performance metrics to drive strategic decisions.</li>
+      <li>Translated complex client business requirements into scalable, data-driven analytical solutions that directly aligned with platform capabilities and operational constraints.</li>
+      <li>Led cross-functional collaboration across product, engineering, and client stakeholder teams to smoothly deploy analytics-driven solutions and optimize internal processes.</li>
+      </ul>
+      <div class="tl-tags">
+        <span class="tl-tag">Problem Solving</span>
+        <span class="tl-tag">Data Analysis</span>
+        <span class="tl-tag">Implementation</span>
+        <span class="tl-tag">Business Intelligence</span>
+        <span class="tl-tag">AI</span>
+        <span class="tl-tag">Configuration</span>
+      </div>
+    </div>
+  </div>
+  
+  <div class="tl-item">
+    <div class="tl-card">
       <div class="tl-role">Customer Operations Analyst Intern</div>
       <div class="tl-company">Forma AI</div>
-      <div class="tl-duration">May 2024 – Ongoing</div>
+      <div class="tl-duration">May 2024 - April 2025</div>
       <p>Working at the intersection of business strategy, data analysis,
       and AI-driven solutions. Transforming complex data into actionable
       insights, generating reports, and helping clients optimise operations
       using Forma's platform.</p>
       <p>Strengthening expertise in data analysis, business intelligence,
       and cross-functional collaboration.</p>
+      <ul>
+      <li>Assisted in developing data-driven solutions for client workflows by analyzing business requirements and translating them into structured analytical outputs</li>
+      <li>Built automated reports and dashboards to support performance monitoring and operational decision-making</li>
+      <li>Collaborated with cross-functional teams to support implementation of optimization and analytics solutions</li>
+      <li>Contributed to client onboarding activities by validating data configurations and supporting solution deployment</li>
+      <li>Developed foundational experience in data analysis, process optimization, and applied analytics in enterprise environments</li>
+      </ul>
       <div class="tl-tags">
         <span class="tl-tag">Data Analysis</span>
         <span class="tl-tag">Business Intelligence</span>
@@ -108,10 +141,10 @@ and experimenting with ideas to better understand how intelligent systems percei
     <div class="tl-card">
       <div class="tl-role">Project Trainee</div>
       <div class="tl-company">Hexaware Technologies</div>
-      <div class="tl-duration">June 2023 – August 2023</div>
+      <div class="tl-duration">June 2023 - August 2023</div>
       <p>Built a full-stack shopping cart application with a customer
       storefront and admin dashboard, backed by a live database.
-      Worked across React, Node.js, and MongoDB — covering database
+      Worked across React, Node.js, and MongoDB - covering database
       integration, UI design, and user authentication.</p>
       <div class="tl-tags">
         <span class="tl-tag">React</span>
