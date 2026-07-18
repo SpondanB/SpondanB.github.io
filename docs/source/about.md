@@ -13,23 +13,18 @@ orphan: true
 
 > *Curious by default. Building things to find out how they work.*
 
-I’m **Spondan Bandyopadhyay** — an AI practitioner focused on understanding 
-and building intelligent systems.
 
-What draws me to artificial intelligence is not just the technology itself, 
-but its ability to model complex patterns, make decisions, and solve meaningful 
-real-world problems. I’m particularly interested in areas such as computer vision, 
-reinforcement learning, and generative models.
+I'm **Spondan Bandyopadhyay** - an AI practitioner driven by curiosity, continuous learning, and a desire to build intelligent systems that solve meaningful real-world problems.
 
-My journey into this field began with a simple house price prediction case study 
-introduced in class. Seeing a mathematical model uncover structure in messy, real-world 
-data sparked my curiosity and led me to explore how learning systems actually work.
-Since then, I’ve been developing a strong foundation in core concepts — from data exploration 
-and feature engineering to model design and evaluation — while gradually moving toward 
-more advanced topics in machine learning and AI systems.
+Artificial intelligence fascinates me because it combines mathematics, engineering, and creativity into systems capable of learning from data, reasoning under uncertainty, and assisting humans in ways that were once considered impossible. For me, AI is not just about achieving better metrics; it's about understanding *why* models work, *where* they fail, and *how* they can become more reliable, interpretable, and useful. My interest in artificial intelligence began with a simple house price prediction case study during my undergraduate studies. Seeing a mathematical model uncover patterns in real-world data sparked a curiosity that has since grown into a commitment to studying machine learning, computer vision, and intelligent systems.
 
-I approach learning by combining theory with hands-on implementation, building projects 
-and experimenting with ideas to better understand how intelligent systems perceive, learn, and act.
+I enjoy learning by building. Whether implementing machine learning algorithms, developing computer vision applications, or experimenting with optimization techniques and 3D graphics, I believe the best way to understand an idea is to implement it from the ground up. This philosophy has shaped both my academic and professional journey.
+
+Professionally, I worked as a **Business Analyst at Forma AI**, where I used Python, SQL, simulation methods, and large-scale data analysis to solve business optimization problems. The experience reinforced the importance of combining strong engineering practices with rigorous experimentation to build reliable AI-driven solutions.
+
+My passion for learning and research ultimately led me to pursue the next step in my academic journey, I will be pursuing an **MSc in Artificial Intelligence** at the **University of Manchester**, where I hope to deepen my understanding of modern AI. I'm particularly interested in computer vision, representation learning, reinforcement learning, and building AI systems that are robust, interpretable, and capable of solving meaningful real-world problems.
+
+This portfolio is a collection of the projects and experiments that have shaped my journey. Each one reflects my curiosity, my approach to learning, and my goal of becoming an AI/ML Research Engineer who bridges research with practical engineering.
 
 ---
 
