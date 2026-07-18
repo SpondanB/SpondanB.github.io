@@ -20,10 +20,9 @@ about
 <!-- > *I like asking questions that data can — sometimes — answer.* -->
 > *Building and understanding intelligent systems.*
 
-I’m an AI practitioner interested in **machine learning, computer vision, and reinforcement learning**.
+I'm an AI practitioner with a passion for **machine learning, computer vision, and reinforcement learning**, driven by a curiosity to understand how intelligent systems learn, perceive, and make decisions.
 
-This site is where I document my work — from projects and experiments to 
-structured (and sometimes random) notes — as I explore how modern AI systems are built and how they work.
+Here you'll find my projects, experiments, and research notes as I explore the theory and engineering behind modern AI.
 
 ---
 
@@ -126,6 +125,7 @@ accuracy cost (or gain) of reducing dimensions.
 :::{grid-item-card} 🧰 Languages & Frameworks
 :class-header: sd-bg-dark sd-text-white
 
+{bdg-dark}`Python`
 {bdg-dark}`Java`
 {bdg-dark}`C / C++`
 {bdg-dark}`React`
@@ -134,6 +134,7 @@ accuracy cost (or gain) of reducing dimensions.
 {bdg-dark}`Tailwind`
 {bdg-dark}`Tkinter`
 {bdg-dark}`p5.js`
+{bdg-dark}`Markdown`
 {bdg-dark}`MkDocs`
 {bdg-dark}`Sphinx`
 :::
@@ -150,7 +151,7 @@ accuracy cost (or gain) of reducing dimensions.
 :link: projects/index
 :link-type: doc
 
-All experiments, analyses, and builds — with code, write-ups, and honest post-mortems.
+All experiments, analyses, and builds - with code, write-ups, and honest post-mortems.
 :::
 
 :::{grid-item-card} 🙋 About
@@ -167,6 +168,6 @@ Background, interests, tools I reach for, and how to get in touch.
 :class: tip
 
 New projects and notes get added as I build and learn. If something
-looks half-finished, that's usually because it is — thinking in
+looks half-finished, that's usually because it is - thinking in
 public is part of the point.
 ```
