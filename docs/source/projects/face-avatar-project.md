@@ -4,7 +4,7 @@ myst:
     "description": "Head Pose–Driven Facial Avatar (3D Skull) — Spondan Bandyopadhyay"
 ---
 
-# Genetic Algorithm Image Approximation
+# Head Pose–Driven Facial Avatar (3D Skull)
 
 **An exploration of evolutionary computation to reconstruct images through natural selection.**
 

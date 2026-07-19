@@ -13,6 +13,7 @@ myst:
 :maxdepth: 1
 :caption: Project List
 
+face-avatar-project
 genetic-algorithm
 gesture-flappy-bird
 pca-study
@@ -39,6 +40,29 @@ pathfinding
 <!-- Project Cards Grid -->
 <div class="proj-grid">
 
+  <!-- Head Pose–Driven Facial Avatar (3D Skull) -->
+  <div class="proj-card" data-tags="ml cv graphics">
+    <div class="proj-card-header">
+      <span class="proj-emoji">💀</span>
+      <div class="proj-tag-list">
+        <span class="proj-tag">Machine Learning</span>
+        <span class="proj-tag">Computer Vision</span>
+        <span class="proj-tag">Computer Graphics</span>
+      </div>
+    </div>
+    <h3 class="proj-title">Head Pose–Driven Facial Avatar (3D Skull)</h3>
+    <p class="proj-question"><em>How do Virtual Youtubers have their Avatars move with their own movement</em></p>
+    <p class="proj-desc">Explored implementation of a Vtuber Model setup from scratch - built using the python language and opencv and Mediapipe libraries.This project demonstrates a real-time, camera-driven 3D animation system where a virtual skull mirrors a user's head orientation, eye blinks, and mouth movements using a standard webcam.</p>
+    <div class="proj-meta">
+      <span>🛠 Python · OpenCV · Mediapipe</span>
+      <span>✅ Complete</span>
+    </div>
+    <div class="proj-links">
+      <a href="https://github.com/SpondanB/Virtual-Skull-Avatar" target="_blank" class="proj-btn">GitHub →</a>
+      <a href="../projects/face-avatar-project.html" class="proj-btn proj-btn-secondary">Read More →</a>
+    </div>
+  </div>
+  
   <!-- Image Generation via Genetic Algorithm -->
   <div class="proj-card" data-tags="ml generative">
     <div class="proj-card-header">
