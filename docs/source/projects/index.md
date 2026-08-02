@@ -13,6 +13,7 @@ myst:
 :maxdepth: 1
 :caption: Project List
 
+face-avatar-project
 genetic-algorithm
 gesture-flappy-bird
 pca-study
@@ -39,6 +40,29 @@ pathfinding
 <!-- Project Cards Grid -->
 <div class="proj-grid">
 
+  <!-- Head Pose–Driven Facial Avatar (3D Skull) -->
+  <div class="proj-card" data-tags="ml cv graphics">
+    <div class="proj-card-header">
+      <span class="proj-emoji">💀</span>
+      <div class="proj-tag-list">
+        <span class="proj-tag">Machine Learning</span>
+        <span class="proj-tag">Computer Vision</span>
+        <span class="proj-tag">Computer Graphics</span>
+      </div>
+    </div>
+    <h3 class="proj-title">Head Pose–Driven Facial Avatar (3D Skull)</h3>
+    <p class="proj-question"><em>How can computer vision interact in a software-rendered 3D world?</em></p>
+    <p class="proj-desc">Explored how computer vision can drive interactive 3D avatars by building a VTuber-inspired facial animation system from scratch in Python. Leveraging OpenCV and MediaPipe, the project uses real-time face tracking, head pose estimation, and facial landmark analysis to animate a custom software-rendered 3D skull with natural head, blink, and jaw movements.</p>
+    <div class="proj-meta">
+      <span>🛠 Python · OpenCV · Mediapipe</span>
+      <span>✅ Complete</span>
+    </div>
+    <div class="proj-links">
+      <a href="https://github.com/SpondanB/Virtual-Skull-Avatar" target="_blank" class="proj-btn">GitHub →</a>
+      <a href="../projects/face-avatar-project.html" class="proj-btn proj-btn-secondary">Read More →</a>
+    </div>
+  </div>
+  
   <!-- Image Generation via Genetic Algorithm -->
   <div class="proj-card" data-tags="ml generative">
     <div class="proj-card-header">

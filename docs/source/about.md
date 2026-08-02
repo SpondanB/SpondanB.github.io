@@ -85,7 +85,7 @@ This portfolio is a collection of the projects and experiments that have shaped 
     <div class="tl-card">
       <div class="tl-role">Customer Operations Analyst</div>
       <div class="tl-company">Forma AI</div>
-      <div class="tl-duration">May 2025 – Ongoing</div>
+      <div class="tl-duration">May 2025 – July 2026</div>
       <p>Cross-functional analyst working at the intersection of business strategy, data science, and AI-driven operations. Proven track record of transforming complex datasets into scalable, actionable insights and automating workflows using the Forma platform. Skilled in bridging the gap between technical engineering teams and enterprise client stakeholders to optimize business performance.</p>
       <ul>
       <li>One of the first teams to migrate the client to the latest product developed, which required changes to setup rules, validation methodology and dashboard visible queries - requireing us to configure, update, validate and release over 150+ custom queries related to the above within 1 week time period.</li>

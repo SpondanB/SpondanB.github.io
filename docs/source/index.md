@@ -30,6 +30,21 @@ Here you'll find my projects, experiments, and research notes as I explore the t
 ```{grid} 1 1 2 3
 :gutter: 4
 
+:::{grid-item-card} 💀 Head Pose–Driven Facial Avatar (3D Skull)
+:class-header: sd-bg-primary sd-text-white
+
+*Where computer vision meets real-time 3D graphics.*
+^^^
+- **Stack:** `Python` · `OpenCV` · `MediaPipe` · `NumPy` · `Pygame`
+- **Domain:** Computer Vision · Computer Graphics · HCI
+- **Status:** ✅ Complete
+
+Built a webcam-driven 3D facial avatar by combining real-time head pose estimation with a custom software renderer, implementing perspective projection, lighting, depth sorting, and procedural facial animation entirely from scratch.
+
++++
+[GitHub →](https://github.com/SpondanB/Virtual-Skull-Avatar)
+:::
+
 :::{grid-item-card} 🧬 Image Generation via Genetic Algorithm
 :class-header: sd-bg-primary sd-text-white
 
@@ -64,22 +79,6 @@ than it looks.
 [GitHub →](https://github.com/SpondanB/FlappyBirdWithGestures)
 :::
 
-:::{grid-item-card} 📐 PCA — From Scratch vs sklearn
-:class-header: sd-bg-primary sd-text-white
-
-*Does the library do what you think it does?*
-^^^
-- **Stack:** `Python` · `NumPy` · `scikit-learn`
-- **Domain:** Dimensionality Reduction · ML Theory
-- **Status:** ✅ Complete
-
-Implemented PCA from scratch, then compared it against sklearn's
-version on real data. Benchmarked both with KNN to measure the
-accuracy cost (or gain) of reducing dimensions.
-
-+++
-[GitHub →](https://github.com/SpondanB/PrincipleComponentAnalysisStudy)
-:::
 ```
 
 ```{button-ref} projects/index
