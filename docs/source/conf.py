@@ -30,6 +30,7 @@ html_theme_options = {
     "nav_links": [
         {"title": "Projects", "url": "projects/index",
         "children":[
+            {"title": "💀 Pose-Driven Avatar", "url": "projects/face-avatar-project"},
             {"title": "🧬 Genetic Algorithm", "url": "projects/genetic-algorithm"},
             {"title": "🎮 Gesture Flappy Bird", "url": "projects/gesture-flappy-bird"},
             {"title": "📐 PCA Study",           "url": "projects/pca-study"},

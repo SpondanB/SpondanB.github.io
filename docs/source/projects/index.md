@@ -51,8 +51,8 @@ pathfinding
       </div>
     </div>
     <h3 class="proj-title">Head Pose–Driven Facial Avatar (3D Skull)</h3>
-    <p class="proj-question"><em>How do Virtual Youtubers have their Avatars move with their own movement</em></p>
-    <p class="proj-desc">Explored implementation of a Vtuber Model setup from scratch - built using the python language and opencv and Mediapipe libraries.This project demonstrates a real-time, camera-driven 3D animation system where a virtual skull mirrors a user's head orientation, eye blinks, and mouth movements using a standard webcam.</p>
+    <p class="proj-question"><em>How can computer vision interact in a software-rendered 3D world?</em></p>
+    <p class="proj-desc">Explored how computer vision can drive interactive 3D avatars by building a VTuber-inspired facial animation system from scratch in Python. Leveraging OpenCV and MediaPipe, the project uses real-time face tracking, head pose estimation, and facial landmark analysis to animate a custom software-rendered 3D skull with natural head, blink, and jaw movements.</p>
     <div class="proj-meta">
       <span>🛠 Python · OpenCV · Mediapipe</span>
       <span>✅ Complete</span>
