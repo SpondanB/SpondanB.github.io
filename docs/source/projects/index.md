@@ -13,6 +13,7 @@ myst:
 :maxdepth: 1
 :caption: Project List
 
+rl-snake-game
 face-avatar-project
 genetic-algorithm
 gesture-flappy-bird
@@ -30,6 +31,7 @@ pathfinding
 <div class="proj-filters">
   <button class="proj-filter-btn active" data-filter="all">All</button>
   <button class="proj-filter-btn" data-filter="ml">Machine Learning</button>
+  <button class="proj-filter-btn" data-filter="rl">Reinforcement Learning</button>
   <button class="proj-filter-btn" data-filter="cv">Computer Vision</button>
   <button class="proj-filter-btn" data-filter="generative">Generative</button>
   <button class="proj-filter-btn" data-filter="study">Study / Research</button>
@@ -40,6 +42,30 @@ pathfinding
 <!-- Project Cards Grid -->
 <div class="proj-grid">
 
+  <!-- Reinforcement Learning: Teaching an Agent to Play Snake -->
+  <div class="proj-card" data-tags="rl ml graphics">
+    <div class="proj-card-header">
+      <span class="proj-emoji">🐍</span>
+      <div class="proj-tag-list">
+        <span class="proj-tag">Reinforcement Learning</span>
+        <span class="proj-tag">Machine Learning</span>
+        <span class="proj-tag">Computer Graphics</span>
+      </div>
+    </div>
+    <h3 class="proj-title">Reinforcement Learning: Teaching an Agent to Play Snake</h3>
+    <p class="proj-question"><em>How can computer interact with a game and get better at it?</em></p>
+    <p class="proj-desc">Explored reinforcement learning by building a Snake-playing agent from scratch in Python using PyTorch and Deep Q-Learning. The system learns to navigate the game environment by observing an 11-dimensional state representation, selecting actions, and improving its policy through reward-based feedback.
+    </p>
+    <div class="proj-meta">
+      <span>🛠 Python · Pygame · PyTorch</span>
+      <span>✅ Complete</span>
+    </div>
+    <div class="proj-links">
+      <a href="https://github.com/SpondanB/ReinforecmentLearning-SnakeGame" target="_blank" class="proj-btn">GitHub →</a>
+      <a href="../projects/rl-snake-game.html" class="proj-btn proj-btn-secondary">Read More →</a>
+    </div>
+  </div>
+  
   <!-- Head Pose–Driven Facial Avatar (3D Skull) -->
   <div class="proj-card" data-tags="ml cv graphics">
     <div class="proj-card-header">
@@ -52,7 +78,7 @@ pathfinding
     </div>
     <h3 class="proj-title">Head Pose–Driven Facial Avatar (3D Skull)</h3>
     <p class="proj-question"><em>How can computer vision interact in a software-rendered 3D world?</em></p>
-    <p class="proj-desc">Explored how computer vision can drive interactive 3D avatars by building a VTuber-inspired facial animation system from scratch in Python. Leveraging OpenCV and MediaPipe, the project uses real-time face tracking, head pose estimation, and facial landmark analysis to animate a custom software-rendered 3D skull with natural head, blink, and jaw movements.</p>
+    <p class="proj-desc">Explored how computer vision can drive interactive 3D avatars by building a VTuber-inspired facial animation pipeline from scratch in Python. Using OpenCV and MediaPipe, the system performs real-time face tracking, head pose estimation, and facial expression analysis to animate a custom software-rendered 3D skull using only a standard webcam.</p>
     <div class="proj-meta">
       <span>🛠 Python · OpenCV · Mediapipe</span>
       <span>✅ Complete</span>
