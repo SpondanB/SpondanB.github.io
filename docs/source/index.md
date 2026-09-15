@@ -30,6 +30,21 @@ Here you'll find my projects, experiments, and research notes as I explore the t
 ```{grid} 1 1 2 3
 :gutter: 4
 
+:::{grid-item-card} 🤖 KindaGPT: Transformer from Scratch
+:class-header: sd-bg-primary sd-text-white
+
+*What actually happens inside a GPT model?*
+^^^
+- **Stack:** `Python` · `PyTorch`
+- **Domain:** Artificial Intelligence · NLP · Deep Learning
+- **Status:** ✅ Complete
+
+Built KindaGPT from scratch to understand the mechanics behind Transformer-based language models rather than treating them as a black box. Implemented self-attention, multi-head attention, causal masking, positional embeddings, and autoregressive generation while exploring the ideas introduced in Attention Is All You Need.
+
++++
+[GitHub →](https://github.com/SpondanB/KindaGPT)
+:::
+
 :::{grid-item-card} 💀 Head Pose–Driven Facial Avatar (3D Skull)
 :class-header: sd-bg-primary sd-text-white
 
@@ -62,22 +77,6 @@ fitness functions outside the usual ML stack.
 [GitHub →](https://github.com/SpondanB/2105907_AI)
 :::
 
-:::{grid-item-card} 🎮 Gesture-Controlled Flappy Bird
-:class-header: sd-bg-primary sd-text-white
-
-*Can your hands function as the controller?*
-^^^
-- **Stack:** `Python` · `OpenCV` · `MediaPipe`
-- **Domain:** Computer Vision · HCI
-- **Status:** ✅ Complete
-
-Built a real-time hand-tracking pipeline to replace keyboard input
-in a game. Turned out hand tracking is trickier — and more fun —
-than it looks.
-
-+++
-[GitHub →](https://github.com/SpondanB/FlappyBirdWithGestures)
-:::
 
 ```
 
