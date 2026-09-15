@@ -13,6 +13,7 @@ myst:
 :maxdepth: 1
 :caption: Project List
 
+kindagpt
 rl-snake-game
 face-avatar-project
 genetic-algorithm
@@ -31,7 +32,9 @@ pathfinding
 <div class="proj-filters">
   <button class="proj-filter-btn active" data-filter="all">All</button>
   <button class="proj-filter-btn" data-filter="ml">Machine Learning</button>
+  <button class="proj-filter-btn" data-filter="ai">Artificial Intelligence</button>
   <button class="proj-filter-btn" data-filter="rl">Reinforcement Learning</button>
+  <button class="proj-filter-btn" data-filter="llm">LLMs</button>
   <button class="proj-filter-btn" data-filter="cv">Computer Vision</button>
   <button class="proj-filter-btn" data-filter="generative">Generative</button>
   <button class="proj-filter-btn" data-filter="study">Study / Research</button>
@@ -41,6 +44,30 @@ pathfinding
 
 <!-- Project Cards Grid -->
 <div class="proj-grid">
+
+  <!-- KindaGPT: Building a Transformer from Scratch -->
+  <div class="proj-card" data-tags="llm ai ml">
+    <div class="proj-card-header">
+      <span class="proj-emoji">🤖</span>
+      <div class="proj-tag-list">
+        <span class="proj-tag">LLMs</span>
+        <span class="proj-tag">Artificial Intelligence</span>
+        <span class="proj-tag">Machine Learning</span>
+      </div>
+    </div>
+    <h3 class="proj-title">KindaGPT: Building a Transformer from Scratch</h3>
+    <p class="proj-question"><em>How does a GPT-style language model actually understand and generate text?</em></p>
+    <p class="proj-desc">Explored the inner workings of Transformers by building a small GPT-style language model from scratch using PyTorch. The model implements token and positional embeddings, causal self-attention, multi-head attention, feed-forward networks, and autoregressive text generation to learn how to predict the next character in a sequence.
+    </p>
+    <div class="proj-meta">
+      <span>🛠 Python · PyTorch</span>
+      <span>✅ Complete</span>
+    </div>
+    <div class="proj-links">
+      <a href="https://github.com/SpondanB/KindaGPT" target="_blank" class="proj-btn">GitHub →</a>
+      <a href="../projects/kindagpt.html" class="proj-btn proj-btn-secondary">Read More →</a>
+    </div>
+  </div>
 
   <!-- Reinforcement Learning: Teaching an Agent to Play Snake -->
   <div class="proj-card" data-tags="rl ml graphics">
