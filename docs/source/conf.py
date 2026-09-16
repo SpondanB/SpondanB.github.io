@@ -30,6 +30,7 @@ html_theme_options = {
     "nav_links": [
         {"title": "Projects", "url": "projects/index",
         "children":[
+            {"title": "🤖 KindaGPT: GPT from scratch", "url": "projects/kindagpt"},
             {"title": "🐍 RL based Snake Game", "url": "projects/rl-snake-game"},
             {"title": "💀 Pose-Driven Avatar", "url": "projects/face-avatar-project"},
             {"title": "🧬 Genetic Algorithm", "url": "projects/genetic-algorithm"},
